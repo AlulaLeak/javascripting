@@ -1,1 +1,3 @@
 # javascripting
+
+For Lighthouse Labs
